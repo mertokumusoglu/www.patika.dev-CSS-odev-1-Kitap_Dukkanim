@@ -1,0 +1,25 @@
+h1 {
+    color: crimson;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-size: 2.5em;
+}
+p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-size: 1.5em;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float:inline-start;
+    padding:12px 14px;
+}
